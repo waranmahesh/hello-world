@@ -13,6 +13,8 @@ public class TestM {
 		Date ddatat = sdfrr.parse("00:45:22");
 		System.out.println("Dare:" + ddatat.getTime());
 		System.out.println("Mahesh");
+		
+		System.out.println("Mahesh2");
 
 		}
 }
