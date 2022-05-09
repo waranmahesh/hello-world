@@ -12,6 +12,9 @@ public class TestM {
 		SimpleDateFormat sdfrr = new SimpleDateFormat("HH:mm:ss");
 		Date ddatat = sdfrr.parse("00:45:22");
 		System.out.println("Dare:" + ddatat.getTime());
+		System.out.println("Mahesh");
+		
+		System.out.println("Mahesh2");
 		System.out.println("Mahesh3");
 
 				System.out.println("Mahesh4");
